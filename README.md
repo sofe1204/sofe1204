@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">**`Web apps, networking, devops`**</h4>
+**`Web apps, networking, devops`**
 
 ###
 
