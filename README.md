@@ -1,8 +1,8 @@
-<h1 align="left">Sofe</h1>
+<h2 align="left">Sofe</h1>
 
 ###
 
-<h4 align="left">Web apps, networking, devops</h4>
+<h4 align="left">**`Web apps, networking, devops`**</h4>
 
 ###
 
