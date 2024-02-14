@@ -1,4 +1,4 @@
-<h2 align="left">Sofe</h1>
+<h2 align="left">🕹 Sofe</h1>
 
 ###
 
