@@ -2,7 +2,7 @@
 
 ###
 
-**`Web apps, networking, devops`**
+**`Web apps, networking, gaming`**
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sofe1204.sofe1204&left_color=aquamarine&right_color=coral&left_text=profile%20views"  />
 
