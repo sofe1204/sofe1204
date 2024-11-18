@@ -2,7 +2,7 @@
 
 ###
 
-**`Interested in modern web applications, diving into networking solutions, and exploring the world of computer science.`**
+**`Interested in modern web applications, computer science and networking solutions.`**
 
 <!--  <img src="https://visitor-badge.laobi.icu/badge?page_id=sofe1204.sofe1204&left_color=aquamarine&right_color=coral&left_text=profile%20views"  /> -->
 </div>
